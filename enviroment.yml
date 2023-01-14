@@ -1,0 +1,6 @@
+name: convert
+channels:
+  - conda-forge
+dependencies:
+  - python
+prefix: /home/dasxgo/mambaforge/envs/convert
