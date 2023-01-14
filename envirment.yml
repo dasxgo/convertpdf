@@ -1,0 +1,9 @@
+name: convert
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - ipykernel
+  - ca-certificates
+  - openssl
+prefix: /home/dasxgo/mambaforge/envs/convert
