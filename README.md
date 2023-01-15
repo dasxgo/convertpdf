@@ -1,2 +1,2 @@
 # convertpdf
-convert pdf to docx
+convert documents and tables to pdf
