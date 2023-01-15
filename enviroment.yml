@@ -2,8 +2,10 @@ name: convert
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python==3.10
   - ipykernel
   - ca-certificates
   - openssl
+  - pandas
+  - pdfplumber
 prefix: /home/dasxgo/mambaforge/envs/convert
